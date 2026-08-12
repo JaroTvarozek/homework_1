@@ -1,4 +1,4 @@
-# Počasový agent 🌤️
+# Agent na počasie 🌤️
 
 Python skript, ktorý zavolá LLM API, nechá model použiť nástroje (tools) a výsledky
 nástrojov mu pošle späť, aby dal finálnu odpoveď.
